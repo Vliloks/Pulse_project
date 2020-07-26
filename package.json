@@ -1,5 +1,5 @@
 {
-  "name": "uber_project",
+  "name": "Pulse_project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vliloks/UBER_project.git"
+    "url": "git+https://github.com/Vliloks/Pulse_project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vliloks/UBER_project/issues"
+    "url": "https://github.com/Vliloks/Pulse_project/issues"
   },
-  "homepage": "https://github.com/Vliloks/UBER_project#readme",
+  "homepage": "https://github.com/Vliloks/Pulse_projectt#readme",
   "devDependencies": {
     "browser-sync": "^2.26.10",
     "gulp": "^4.0.2",
